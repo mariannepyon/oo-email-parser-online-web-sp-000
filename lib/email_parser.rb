@@ -21,7 +21,4 @@ class EmailAddressParser
     email
   end
 
-  def parse
-  end
-
 end
